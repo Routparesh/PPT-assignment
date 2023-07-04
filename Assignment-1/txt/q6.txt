@@ -1,0 +1,1 @@
+Some advantages of HTML5 over previous versions include native support for multimedia elements (audio and video), canvas for dynamic graphics, local storage for offline data, improved form input types, and enhanced semantics with new structural elements. It also reduces the need for third-party plugins like Flash for multimedia content.

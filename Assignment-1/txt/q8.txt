@@ -1,0 +1,1 @@
+The `<figure>` tag is used to group media content, such as images, illustrations, or videos, along with their captions. It provides semantic meaning to the content. On the other hand, the `<img>` tag is specifically used to insert and display an image on a web page, without any associated caption or description.

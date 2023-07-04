@@ -1,0 +1,1 @@
+HTML tags are the markup syntax used to define the beginning and end of an HTML element. They are enclosed in angle brackets, such as `<tagname>`. HTML elements, on the other hand, consist of an opening tag, content, and a closing tag, forming a complete unit. Elements represent the structure and semantics of the content within a web page.

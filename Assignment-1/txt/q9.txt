@@ -1,0 +1,1 @@
+HTML tags are elements that define the structure and content of a web page, enclosed in angle brackets (e.g., `<tagname>`). Attributes, on the other hand, provide additional information or properties to the HTML tags. Global attributes, applicable to most tags, include `class`, `id`, `style`, `title`, `lang`, and `tabindex`.
